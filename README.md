@@ -2,5 +2,5 @@
 - 👀 I am interested in mobile application development for Android smartphones, 3D modeling, data analytics and design
 - 🌱 I’m currently learning Kotlin, but I already know C++, python and several other programming languages. I have a bachelor's degree in engineering and technology.
 - 💞️I am looking for cooperation with a company in the development of mobile applications for Android.
-- 📫 clevercake.web@gmail.com
+- 📫 apppie.aab@gmail.com
 - ⚡ Interesting fact: I have a cute dog Tatosha
